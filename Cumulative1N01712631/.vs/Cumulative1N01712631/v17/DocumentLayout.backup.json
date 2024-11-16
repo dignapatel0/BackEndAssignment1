@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\digna\\source\\repos\\Cumulative1N01712631\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293526B6-0D4A-477C-B630-38BC291C005F}|Cumulative1N01712631\\Cumulative1N01712631.csproj|c:\\users\\digna\\source\\repos\\cumulative1n01712631\\cumulative1n01712631\\views\\studentpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{293526B6-0D4A-477C-B630-38BC291C005F}|Cumulative1N01712631\\Cumulative1N01712631.csproj|solutionrelative:cumulative1n01712631\\views\\studentpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\digna\\source\\repos\\Cumulative1N01712631\\Cumulative1N01712631\\Views\\StudentPage\\List.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1N01712631\\Views\\StudentPage\\List.cshtml",
+              "ToolTip": "C:\\Users\\digna\\source\\repos\\Cumulative1N01712631\\Cumulative1N01712631\\Views\\StudentPage\\List.cshtml",
+              "RelativeToolTip": "Cumulative1N01712631\\Views\\StudentPage\\List.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T04:36:10.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
